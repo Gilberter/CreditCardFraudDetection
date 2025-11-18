@@ -7,7 +7,7 @@
   * Alejandro Farelo
 
 ### Objetivo
-
+Este proyecto busca detectar inconcistencias en los datos de transacciones de tarjetas de credito para detectar si a estas se les esta realizando fraude.
 ### Modelos
   * Decision Tree
   * Random Forest Classifier
