@@ -1,18 +1,19 @@
 ![Alt text for the image](BANNER.jpg)
 ## Proyecto: Credit Card Fraud Detection
 
-
 ### Autores
-  * Juan David Vanegas Echeverria
-  * Sub-ítem 2
+  * Juan David Vanegas 
+  * Octavio Barrera
+  * Alejandro Farelo
 
 ### Objetivo
 
 ### Modelos
-  * Juan David Vanegas Echeverria
-  * Sub-ítem 2
+  * Decision Tree
+  * Random Forest Classifier
+  * Support Vector Classifier
+  * Deep Learning (Neural Network Dense Layers)
 
 
 ### Enlaces
-  * Juan David Vanegas Echeverria
-  * Sub-ítem 2
+  * Link Video: https://youtu.be/vb4ysxChF7A
