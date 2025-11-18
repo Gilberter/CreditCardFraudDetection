@@ -14,9 +14,9 @@ Este proyecto busca detectar inconcistencias en los datos de transacciones de ta
   * Support Vector Classifier
   * Deep Learning (Neural Network Dense Layers)
 
-### Dataset
-  * [Dataset](https://www.kaggle.com/datasets/iabhishekofficial/creditcard-fraud-detection)
-  * [Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+### Datasets
+  * [Dataset 1](https://www.kaggle.com/datasets/iabhishekofficial/creditcard-fraud-detection)
+  * [Dataset 2](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ### Enlaces
   * Link Video: https://youtu.be/vb4ysxChF7A
