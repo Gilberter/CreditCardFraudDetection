@@ -3,9 +3,6 @@
 
 
 ### Autores
-
-* Lista con viñetas (unordered list)
-
   * Juan David Vanegas Echeverria
   * Sub-ítem 2
 
